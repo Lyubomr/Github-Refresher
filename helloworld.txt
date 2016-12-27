@@ -1,1 +1,4 @@
 Starting refresher training on Git use.
+
+Created a local repository using git init. After creating the repo on GitHub.com
+I've added a remote host called origin using and SSH key. Then I've pushed to the master branch.
