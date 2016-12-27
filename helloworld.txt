@@ -2,3 +2,4 @@ Starting refresher training on Git use.
 
 Created a local repository using git init. After creating the repo on GitHub.com
 I've added a remote host called origin using and SSH key. Then I've pushed to the master branch.
+When you write git push origin master you're pushing the code to a remote server called origin onto the default branch called master
