@@ -1,5 +1,12 @@
-Starting refresher training on Git use.
+Starting refresher training on Git use. Keeping notes on my progress in a journal-style way.
 
 Created a local repository using git init. After creating the repo on GitHub.com
 I've added a remote host called origin using and SSH key. Then I've pushed to the master branch.
 When you write git push origin master you're pushing the code to a remote server called origin onto the default branch called master
+
+
+Working on cloning repositories. Cloned an old javascript repo into the GitHub repo.
+
+Note that creating another directory is not required when cloning into the home directory. Github will create another directory for you
+
+This is why the repo is within another direction i.e. Javascript_Fundamentals/javascript_fundamentals. 
